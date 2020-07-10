@@ -1,8 +1,8 @@
 ### Hello!! 👋
 
 # José Neto
-[![Linkedin Badge](https://img.shields.io/badge/-joseNeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielobara/)](https://www.linkedin.com/in/danielobara/)
-[![Gmail Badge](https://img.shields.io/badge/-josenetopr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josenetopr@gmail.com)](mailto:danieltsutomu@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-joseNeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-netopr/)](https://www.linkedin.com/in/jose-netopr/)
+[![Gmail Badge](https://img.shields.io/badge/-josenetopr5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josenetopr5@gmail.com)](mailto:josenetopr5@gmail.com)
 
 - 🔭 I’m currently looking for an internship/junior job
 - 🌱 I’m currently learning Node.js, React, React-Native and Typescrit
