@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**1TATO/1TATO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# José Neto
+[![Linkedin Badge](https://img.shields.io/badge/-joseNeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielobara/)](https://www.linkedin.com/in/danielobara/)
+[![Gmail Badge](https://img.shields.io/badge/-josenetopr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josenetopr@gmail.com)](mailto:danieltsutomu@gmail.com)
 
 Here are some ideas to get you started:
 
