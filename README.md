@@ -6,10 +6,10 @@
 
 Hey guys, I'm TATO, I'm a front-end developer working with React on Web2 and Web3 companies/projects
 
-Projects I worked/currently working on are:
-➡️ Dimenzion
-➡️ Bonke DAO/Bonkito DAO
-➡️ Fearless Bulls Club
+💪 Projects I worked/currently working on are:
+- Dimenzion
+- Bonke DAO/Bonkito DAO
+- Fearless Bulls Club
 
 🗨️ You can reach me on:
 - [@TATOnft](https://twitter.com/TATOnft)
